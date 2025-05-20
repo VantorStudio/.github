@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/VantorLogo.png" alt="VantorStudio Logo" width="200"/>
+  <img src="../assets/VantorLogo.png" alt="VantorStudio Logo" width="200"/>
 </p>
 
 <h1 align="center">Vantor Development Team</h1>
