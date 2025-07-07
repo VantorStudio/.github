@@ -5,7 +5,7 @@
 <h1 align="center">Vantor Development Team</h1>
 
 <p align="center">
-  🚀 Building the modular, cross-platform graphics engine.<br>
+  🚀 Building modular, cross-platform graphics SDKs.<br>
                 By game devs, for game devs.
 </p>
 
